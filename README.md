@@ -1,3 +1,3 @@
 # quantitative trading
-This is a repo I use to practice different trading strategies
+This is a repository that I use to experiment different trading strategies.
 
